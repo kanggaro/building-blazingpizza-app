@@ -5,9 +5,9 @@
 ![image](https://user-images.githubusercontent.com/90663373/225676458-4cb6d2a9-33a2-4cbd-ae07-415d80335de6.png)
 
 ### session 2 - customizing pizza
-> custom order
+`custom order`
 ![image](https://user-images.githubusercontent.com/90663373/225685945-5e8277a4-661e-4c09-b06e-747396a440b2.png)>
-> then, add to list order
+`then, add to list order`
 ![image](https://user-images.githubusercontent.com/90663373/225685914-892d6373-4975-4060-8047-bbe266b35705.png)
 
 ### session 3 - showing order status
@@ -29,12 +29,18 @@
 ### session 6 - auth
 
 ![image](https://user-images.githubusercontent.com/90663373/225684906-52c96ece-e981-480d-b763-d4275dfc1422.png)
-> register page
+`register page`
 ![image](https://user-images.githubusercontent.com/90663373/225684953-68f6cd68-ab76-4b1a-a2db-30b272c47d05.png)
-> email link confirmation
+`email link confirmation`
 ![image](https://user-images.githubusercontent.com/90663373/225685099-d06d6684-1fc3-48ca-9bc9-ade295718af2.png)
-> email confirmed 
+`email confirmed` 
 ![image](https://user-images.githubusercontent.com/90663373/225685193-c8c43ece-0363-44f2-94d3-d02f738c09eb.png)
+
+`login page`
+![image](https://user-images.githubusercontent.com/90663373/225687090-45fb69f1-8064-446c-add9-34b8aa9d254f.png)
+`login view`
+![image](https://user-images.githubusercontent.com/90663373/225687195-5f8cc6bf-3dd4-43b5-b2b2-65c0487afc49.png)
+
 
 ### session 7
 
