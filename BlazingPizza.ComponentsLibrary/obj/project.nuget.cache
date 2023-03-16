@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+ww+ABm9+o82iTo8tOdUzTvnzRf2rgDjB1ykmbZVFSHLNw/IgHYBv+OKsERD737hi7vhq45NvSRNZz5/Aegag==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\asus\\Downloads\\building-blazingpizza-app\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'BlazingPizza.ComponentsLibrary': Invalid framework identifier ''."
+    }
+  ]
+}

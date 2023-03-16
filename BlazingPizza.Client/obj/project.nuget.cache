@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQyqOilmuNzJzEcywjOzYUl2ynRnZNrWG+7bFk4rXR3H2LeN5zx9LaKHXCyswy5biKPeYgz3gjLyA/wHsjuoNw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\asus\\Downloads\\building-blazingpizza-app\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'BlazingPizza.Client': Invalid framework identifier ''."
+    }
+  ]
+}

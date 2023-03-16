@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "P62ULAsaSjsLWWcguCraC+WYZLPWm6XusqMqvJ1SFI97YeTgEpPVpklEXb81hDTSLHeNjFhz+ylGXnblBs4GYA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\asus\\Downloads\\building-blazingpizza-app\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'BlazingPizza.Shared': Invalid framework identifier ''."
+    }
+  ]
+}
