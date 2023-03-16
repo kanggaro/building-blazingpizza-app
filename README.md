@@ -73,3 +73,18 @@
 
 ### session 9
 
+`view profile page`
+
+![image](https://user-images.githubusercontent.com/90663373/225693205-cf53afce-1830-401c-810f-e6169f5860f9.png)
+
+`view two factor authentication`
+
+![image](https://user-images.githubusercontent.com/90663373/225693460-f40fcd6c-b503-40b2-8cf6-5ea4a8ae68d4.png)
+
+
+`view feature for delete account permanently`
+
+![image](https://user-images.githubusercontent.com/90663373/225693352-f1fa158c-7457-4e78-b1c9-2e5c8cb76c9b.png)
+
+![image](https://user-images.githubusercontent.com/90663373/225693705-953658fe-f58e-489b-9232-0583e83702f3.png)
+
